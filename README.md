@@ -2,6 +2,10 @@
 
 Um simples servidor http que retorna um json para praticar frontend.
 
+## Requisitos
+
+Para rodar o projeto é necessário possuir o Node versão 6+ instalado na máquina.
+
 ## Como utilizar
 
 Faça o download deste repositório, seja via `git` ou pelo zip no botão de download do GitHub.
