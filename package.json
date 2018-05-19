@@ -1,0 +1,27 @@
+{
+  "name": "attendant",
+  "version": "1.0.0",
+  "description": "Simple server to serve json files for poc's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woliveiras/attendant.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "javascript",
+    "js",
+    "http",
+    "json"
+  ],
+  "author": "William Oliveira <w.oliveira542@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/woliveiras/attendant/issues"
+  },
+  "homepage": "https://github.com/woliveiras/attendant#readme"
+}
